@@ -170,7 +170,7 @@ def priodo_escolar():
 
   print('==========Digite A Escolaridade Correspondente==========')
   print()
-  print('Pré-MArtenal\n1°-Ano\n2°-Ano\n3°Ano\n4°-Ano\n5°-Ano\n6º Ano a 9º Ano\n1°-Ano Médio\n2°-Ano Médio\n3°-Ano Médio')
+  print('Pré-Maternal\n1ºAno\n2ºAno\n3ºAno\n4ºAno\n5ºAno\n6ºAno a 9º Ano\n1ºAno Médio\n2ºAno Médio\n3ºAno Médio')
   print()
 
 
