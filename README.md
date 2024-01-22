@@ -56,7 +56,7 @@ def cadastro():
 
     while True:
         idade_input = input("Digite idade: ")
-        if idade_input.isdigit():  # Verifica se a entrada contém apenas dígitos
+        if idade_input.isdigit():  
             idade = int(idade_input)
             break
         else:
